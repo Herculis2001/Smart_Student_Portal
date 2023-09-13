@@ -11,4 +11,4 @@ Smart Student Portal tackles the most basic and important needs of a student tha
 4. A course selection system that could be used to work on completed or incomplete courses.
 ![Courses](https://github.com/raidenblackout/Smart_Student_Portal/blob/master/Description/Images/CoursesWindow.png)
 # Smart_Student_Portal
-# Smart_Student_Portal
+
